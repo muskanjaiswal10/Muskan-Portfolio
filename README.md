@@ -1,12 +1,9 @@
 # 3D React Portfolio
 
 
-# [Personal Portfolio - 3D React Portfolio](https://shinchancode.github.io/3d-react-portfolio/)
 <b>Created a responsive react website using amazing features of CSS, HTML and Javascript framework React with 3D graphics and animations. I have used ThreeJS 3D Developer tools for this Portfolio.
 
 Implemented my own Portfolio as Website, Where I have added all my projects and experiences. I have hosted it with the help of github gh-pages. I keep on making changes accordingly to keep it up-to-date.</b>
-
-![3D Portfolio](https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/1.png)
 
 ## View Live Demo
 <pre><center><a href="https://shinchancode.github.io/3d-react-portfolio/"><b>https://shinchancode.github.io/3d-react-portfolio/</b></a></center></pre>
@@ -105,24 +102,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 <hr>
-
-## [SnapShots in Laptop View](https://shinchancode.github.io/3d-react-portfolio/)
-
-![3D Portfolio Laptop](https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/1.png)
-
-![3D Portfolio Laptop](https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/2.png)
-
-![3D Portfolio Laptop](https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/3.png)
-
-![3D Portfolio Laptop](https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/4.png)
-
-![3D Portfolio Laptop](https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/5.png)
-
-![3D Portfolio Laptop](https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/6.png)
-
-<hr>
-
-## [SnapShots in Mobile View](https://shinchancode.github.io/3d-react-portfolio/)
 
 
 <br />
