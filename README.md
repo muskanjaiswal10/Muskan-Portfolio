@@ -6,7 +6,6 @@
 Implemented my own Portfolio as Website, Where I have added all my projects and experiences. I have hosted it with the help of github gh-pages. I keep on making changes accordingly to keep it up-to-date.</b>
 
 ## View Live Demo
-<pre><center><a href="https://shinchancode.github.io/3d-react-portfolio/"><b>https://shinchancode.github.io/3d-react-portfolio/</b></a></center></pre>
 
 
 ## Introduction
